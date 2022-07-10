@@ -1,0 +1,120 @@
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: turquoise;
+  
+  }
+  
+  li {
+    float: left;
+    display: inline;
+    font-size: 16pt;
+    
+    }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+  }
+  li a:hover:not(.active) {
+    background-color: black;
+  }
+  
+  .active {
+    background-color: blue;
+    
+  }
+  .susil-photo {
+    width: 200px; 
+    height: 200px;
+    text-align: right;
+    border: 10px solid gray;
+    margin: 10px;
+    float: right;
+  }
+  
+  .laviniaphoto {
+    height: 400px;
+    width: auto;
+    float: right;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .trainphoto {
+    height: 420px;
+    width: auto;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .gallephoto {
+    height: 395px;
+    width: auto;
+    float: right;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  .teaplantationphoto {
+    height: 370px;
+    width: auto;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .gallefacephoto {
+    height: 230px;
+    width: auto;
+    float: right;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  .kandyphoto {
+    height: 210px;
+    width: auto;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  p{
+    font-size: 16pt;
+  }
+
+  .washroomphoto {
+    height: 200px;
+    width: auto;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  
+  .roomphoto {
+    height: 100px;
+    width: auto;
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
